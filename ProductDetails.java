@@ -62,7 +62,8 @@ public class ProductDetails {
 
 		public static void mouse(){
 			System.out.println("Dell mouse wired ");
-			System.out.println("dell mouse : 1 Mouse");
+			System.out.println("dell mouse : Mouse");
+			System.out.println("Price 750 ");
 			
 		}
 
